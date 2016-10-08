@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=a\ b\ c\ d\ e\ f
+comment0.target=LinearEquation(int,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ geta()
+comment2.params=
+comment2.target=int\ getb()
+comment3.params=
+comment3.target=int\ getc()
+comment4.params=
+comment4.target=int\ getd()
+comment5.params=
+comment5.target=int\ gete()
+comment6.params=
+comment6.target=int\ getf()
+comment7.params=
+comment7.target=boolean\ isSolvable()
+comment8.params=
+comment8.target=double\ getX()
+comment9.params=
+comment9.target=double\ getY()
+numComments=10
