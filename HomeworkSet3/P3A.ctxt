@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=P3A()
+comment1.params=songName\ songArtist\ songGenre\ yearReleased\ inputSongLengthSec
+comment1.target=P3A(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getYearReleased()
+comment3.params=yearReleased
+comment3.target=void\ setYearReleased(int)
+comment4.params=
+comment4.target=java.lang.String\ convertToMinSec()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

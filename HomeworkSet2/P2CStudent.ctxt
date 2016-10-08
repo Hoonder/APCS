@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=P2CStudent()
+comment1.params=firstname\ lastname\ grade\ age
+comment1.target=P2CStudent(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

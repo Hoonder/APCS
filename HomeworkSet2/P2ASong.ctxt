@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=P2ASong()
+comment1.params=songName\ songArtist\ songGenre
+comment1.target=P2ASong(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
